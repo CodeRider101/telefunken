@@ -4,7 +4,7 @@
 ## Podman usage
 - only tested with podman, but docker should work as well
 - Podman version: 5.4.2
-- `docker build -t telefunken .` to build the image
+- `podman build -t telefunken .` to build the image
 - `podman run -i -p 8080:9000 -td localhost/telefunken:latest`
 
 ## Overview
