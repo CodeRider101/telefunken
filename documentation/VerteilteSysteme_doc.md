@@ -78,6 +78,8 @@ Nutzung von Jokern:
 Es werden 3 Möglichkeiten zur Betrachtung des entwickelten Spiels bereitgestellt. Es kann das Video betrachtet werden, online direkt gespielt oder lokal mit Podman (Docker-Alternative) gestartet werden.
 
 ### Video
+Hier ist eine Aufnahme des Spiels zu sehen. Man sieht, dass mehrere Runden gespielt werden können und man nur spielen kann, wenn die Auslegebedingungen getroffen wurden. Das Video musste aufgrund der Größe gekürzt und die Qualität verringert werden. Es darf gerne selber getestet werden!
+https://github.com/user-attachments/assets/beac8202-eba5-430b-9671-61a0eed96a64
 
 
 ### Online Access
